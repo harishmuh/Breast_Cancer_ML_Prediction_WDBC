@@ -1,2 +1,3 @@
-# Breast_Cancer_ML_Prediction_WDBC
-Multiple models prediction on Wisconsin Breast cancer data
+# Breast Cancer Prediction with machine learning
+
+Multiple models' prediction on Wisconsin Breast Cancer data - Under construction
